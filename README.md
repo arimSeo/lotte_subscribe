@@ -1,4 +1,6 @@
-# LOTTE 구독 플랫폼
+# LOTTE Damoum, 롯데 구독서비스 여기 다 모음!
+#### Likelion X Lotte 해커톤
+
 
 ## Developer
 - [arimSeo](https://github.com/arimSeo)(Front-End)
